@@ -47,6 +47,16 @@ body {
     overflow: auto;
     float: left;
 }
+.nds {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0px 0px 20px gray;
+    width: 260px;
+    max-height: 400px;
+    overflow: auto;
+    float: left;
+}
 .stopka {
     clear: both;
     background-color: #5C6BC0;
